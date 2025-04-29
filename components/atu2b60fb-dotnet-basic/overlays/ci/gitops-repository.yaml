@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: atu2b60fb-dotnet-basic-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/atu2b60fb-dotnet-basic-gitops
